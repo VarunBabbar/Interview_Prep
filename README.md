@@ -18,7 +18,7 @@ Contains implementations of algorithms commonly asked in interviews with step by
 ### Graph Algorithms
 - [x] Breadth First Search (BFS)
 - [ ] Depth First Search (DFS)
-- [ ] Shortest Distance from source to all vertices (Dijkstra)
+- [x] Shortest Distance from source to all vertices (Dijkstra)
 - [ ] Shortest Path from every vertex to every other vertex (Floyd-Warshall)
 - [ ] A\* Path Search
 
