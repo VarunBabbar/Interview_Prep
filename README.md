@@ -16,7 +16,7 @@ Contains implementations of algorithms commonly asked in interviews with step by
 - [ ] Linear Search
 
 ### Graph Algorithms
-- [ ] Breadth First Search (BFS)
+- [x] Breadth First Search (BFS)
 - [ ] Depth First Search (DFS)
 - [ ] Shortest Distance from source to all vertices (Dijkstra)
 - [ ] Shortest Path from every vertex to every other vertex (Floyd-Warshall)
